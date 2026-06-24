@@ -1,0 +1,6 @@
+database:
+  username: admin
+  password: admin123
+api:
+  token: fake-api-token-123456
+debug: true
